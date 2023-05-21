@@ -70,9 +70,9 @@ background-color: rgb(164, 125, 200);
 
 .packs{
     width: 100%;
-    min-height: 150vh;
+    min-height: 100vh;
     background-attachment: fixed;
-    background-color: rgb(243, 235, 235);
+    background: linear-gradient(to right, #f3f4fa , #cfc7da , #f3f3f3);
   
 }
 
@@ -147,4 +147,21 @@ background-color: rgb(164, 125, 200);
 .info a:hover{
     color: violet;
 }
+
+.media{
+    width: 100%;
+    min-height: 150vh;
+    background-attachment: fixed;
+    background: linear-gradient(to right, #b4c3f4 , #b38ff1 , #eee9e9);
+  
+}
+
+.media h1{
+    font-size: 3.5em;
+    font-weight: 700;
+    text-align: center;
+    padding: 65px 70px;
+    color: #ffffff;
+}
+
 
