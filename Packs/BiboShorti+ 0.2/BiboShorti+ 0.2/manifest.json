@@ -1,0 +1,17 @@
+{
+  "format_version": 1,
+  "header": {
+    "description": "BiboShorti+ or (BiboFa2e3) is a version of BiboShorti is a pack for short items and sky overlays , it is so simple! (v. 0.2)",
+    "name": "BiboShoti+ (0.2)",
+    "uuid": "8e850403-f9cf-4475-83ce-fd85446fbe54",
+    "version": [0, 0, 1]
+  },
+  "modules": [
+    {
+      "description": "BiboShorti+ or (BiboFa2e3) is a version of BiboShorti is a pack for short items and sky overlays , it is so simple! (v. 0.2)",
+      "type": "resources",
+      "uuid": "1d480b4a-6bd0-4a8c-a3a9-f86104644200",
+      "version": [0, 0, 1]
+    }
+  ]
+}
